@@ -6,6 +6,8 @@ Chapter3 = Parsa <br>
 Extras = Harel <br>
 
 **Things i learned:**
+
+
 -basic renpy project structure 
 
 
@@ -24,6 +26,8 @@ Extras = Harel <br>
 -python syntax
 
 **Things i can teach** 
+
+
 basic renpy game creation
 
 
