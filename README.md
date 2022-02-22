@@ -5,14 +5,17 @@ Chapter2 = Luc <br>
 Chapter3 = Parsa <br>
 Extras = Harel <br>
 
-### Sources of Images
-> https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=17302 <br>
-> https://emily2.itch.io/sutemo
+**Things i learned:**
+-basic renpy project structure 
+-basic renpy syntax 
+-Different types of inputs
+-changes of scenes and images
+-using images and using properly sized images
+-python syntax
 
-### Instalation
-1. Download the SDK from the renpy website: https://www.renpy.org/latest.html
-2. Clone the git repository inside the renpy SDK using:
-```
-git clone https://github.com/luc-frenkie-dj/renpy_stranded_island.git
-```
-3. Run the renpy executable in the SDK and enjoy!
+**Things i can teach** 
+basic renpy game creation
+basic syntaxes 
+changing background and changing image sizes 
+**Bibliography**
+https://www.youtube.com/watch?v=_AaUKSjTNY8
